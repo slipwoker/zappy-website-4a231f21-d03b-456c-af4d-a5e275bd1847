@@ -1,0 +1,66 @@
+# TaskFlow — Generative Engine Optimization Map
+
+> A productivity software business.
+
+---
+
+## Pages
+
+### Home
+https://taskflow-4a231f21.zappy5.app
+
+### Product
+https://taskflow-4a231f21.zappy5.app/product
+
+### Workflows
+https://taskflow-4a231f21.zappy5.app/workflows
+
+### Contact
+https://taskflow-4a231f21.zappy5.app/contact
+
+### Products
+https://taskflow-4a231f21.zappy5.app/products
+Our Products - TaskFlow
+
+### Product Detail
+https://taskflow-4a231f21.zappy5.app/product/:slug
+Product Details - TaskFlow
+
+### Category
+https://taskflow-4a231f21.zappy5.app/category/:slug
+Products - TaskFlow
+
+## Legal & Policy
+
+### Privacy Policy
+https://taskflow-4a231f21.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://taskflow-4a231f21.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://taskflow-4a231f21.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About TaskFlow
+TaskFlow is a business in the productivity software industry.
+
+## Target Audience
+- Remote Teams
+- Project Managers
+
+## Industry
+productivity software
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://taskflow-4a231f21.zappy5.app/sitemap.xml
+- **Robots.txt**: https://taskflow-4a231f21.zappy5.app/robots.txt
